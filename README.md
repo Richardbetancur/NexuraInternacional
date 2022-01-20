@@ -6,6 +6,9 @@ Prueba Tecnica Nexura
 
 La rama principal es Master
 
-La Base de Datos de importa en el Phpmyadmin
+La Base de Datos se importa en el Phpmyadmin
 
+Se necesita servidor local.
+
+Falta Ajustar las validaciones
 
