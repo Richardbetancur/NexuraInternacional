@@ -6,3 +6,6 @@ Prueba Tecnica Nexura
 
 La rama principal es Master
 
+La Base de Datos de importa en el Phpmyadmin
+
+
